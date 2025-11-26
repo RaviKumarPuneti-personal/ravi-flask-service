@@ -7,6 +7,6 @@ metadata:
     github.com/project-slug: RaviKumarPuneti-personal/ravi-flask-service
 spec:
   type: service
-  owner: ravi
+  owner: guest
   lifecycle: experimental
 
