@@ -4,7 +4,7 @@ metadata:
   name: flask-service
   description: flask app
   annotations:
-    github.com/project-slug: ramannkhanna2/ravi-flask-service
+    github.com/project-slug: RaviKumarPuneti-personal/ravi-flask-service
 spec:
   type: service
   owner: ravi
