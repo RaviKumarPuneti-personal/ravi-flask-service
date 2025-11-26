@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: flask-service
+  description: flask app
+  annotations:
+    github.com/project-slug: ramannkhanna2/ravi-flask-service
+spec:
+  type: service
+  owner: ravi
+  lifecycle: experimental
+
